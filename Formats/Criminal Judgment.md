@@ -1,10 +1,10 @@
 	Citation:       R. v. Doe
-                	2024 MCR 0
+                	2024 BCPC 0
 	Date:		20240101
 	Registry:	Vancouver
 
 <p align="center"><b><i>
-				IN THE PROVINCIAL COURT OF BRITISH COLUMBIA
+				IN THE BRITISH COLUMBIA PROVINCIAL COURT
 </b></i>
 
 ---
