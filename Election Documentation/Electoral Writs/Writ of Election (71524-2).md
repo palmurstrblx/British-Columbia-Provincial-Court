@@ -6,7 +6,7 @@
 ------
 
 <p align="center"><b>
-			    	WRIT OF SPECIAL ELECTION
+			    	WRIT OF GENERAL ELECTION
 <br><br>		FOR PREMIER
 
 ------
