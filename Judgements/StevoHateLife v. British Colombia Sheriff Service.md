@@ -27,6 +27,7 @@ BETWEEN:
 ---
 
 **INTRODUCTION**
+
 [1] On the 19th, of June 2024, (Time Unspecified). Hacknets placed StevoHateLife under investigation for “Violating the Use of Force Policy and Procedure”. The outcome of the investigation was the defendant was ordered to mandatory re-training, a 10-day suspension, and a strike.
 [2] On the 20th, of June 2024, the defendant StevoHateLife filed a civil case against the British Columbia Sheriff Service for the claim of Right to Challenge Disciplinary Action. The defendant filed a Reply to the Notice of Claim filed by the Plaintiffs' Attorney Hmmm_Poul.
 
@@ -52,4 +53,3 @@ On Claim 1, Right to Challenge Disciplinary Action I find the defendant (British
 
 HMMMMILTON
 Provincial Court Judge
-.md
