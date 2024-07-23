@@ -1,4 +1,3 @@
-```html
 	Citation:       goldqins v. Royal Canadian Mounted Police
                 	PCBC 2012
 	Date:		20240720
@@ -53,4 +52,4 @@ The plaintiff's response and the defendant's further responses are deemed non-si
 
 FinleyFraser12345
 	
-Provincial Court Judge```
+Provincial Court Judge
