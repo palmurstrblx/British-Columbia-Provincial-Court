@@ -1,5 +1,5 @@
-	Citation:       In the matter of an application for expungement by JoeTheBeastPro
-                	2024 BCPC 40
+	Citation:       In the matter of an application for expungement by Grace_Hpearce
+                	2024 BCPC 39
 	Date:		2024-08-08
 	Registry:	Vancouver
 
@@ -10,7 +10,7 @@
 <p align="center"><b>
 				IN THE MATTER OF
 <br><br>			AN APPLICATION FOR EXPUNGEMENT 
-<br>                            BY JOETHEBEASTPRO
+<br>                            BY GRACE_HPEARCE
 <br>				
 
 ---
