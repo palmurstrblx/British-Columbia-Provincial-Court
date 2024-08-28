@@ -1,6 +1,6 @@
 	Title: Writ of Election for Legislative Assembly
-	Date:	20240712
-	Number:	71224-1
+	Date:	20240828
+	Number:	82824-1
 	Authority: s. 150, Constitution Act
 
 ------
@@ -13,16 +13,16 @@
 
 **DELEGATION OF AUTHORITY**
 
-Due to the temporary inability of the Chief Judge to conduct his duties, I (iiCryptic_LawMD, ACJ) have been delegated as the Chief Electoral Officer pursuant to Section 135 of the Constitution Act. 
+Due to the absence of a Chief Electoral Officer, I (palmurst, Lieutenant Governor) have been delegated as the Chief Electoral Officer pursuant to Section 177 of the Constitution Act. 
 
 **WRIT OF ELECTION**
 
-Pursuant to Sections 140, 147, and 150 of the Constitution Act, it is declared that there shall be a Special Election as a result of the successful recall of Assemblyman Pradacakessss. The information is below:
+Pursuant to Sections 140, 147, and 150 of the Constitution Act, it is declared that there shall be a Special Election following the extreme lack of seats filled within the Assembly. The information is below:
 
 | Office for Election | Seats Available |
 | ------------------- | --------------- |
-| Legislative Assembly |    One (1)     |
+| Legislative Assembly |    Four (4)     |
 
 | Nomination Period                                    |  Campaigning Period                                 | Voting Period                                       | Certification of Results |
 | ---------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------- | ------------------------ |
-| 07/14/2024 @ 08:00 UTC-7 - 07/15/2024 @ 23:59 UTC-7  | 07/16/2024 @ 08:00 UTC-7 - 07/17/2024 @ 23:59 UTC-7 | 07/18/2024 @ 08:00 UTC-7 - 07/19/2024 @ 23:59 UTC-7 | 07/20/2024 @ 12:00 UTC-7 |
+| 08/28/2024 @ 8:00 AM EST - 08/29/2024 @ 23:59 PM EST  | 08/30/2024 @ 08:00 AM EST - 08/31/2024 @ 23:59 PM EST | 09/01/2024 @ 08:00 AM EST - 09/02/2024 @ 23:59 PM EST | 09/03/2024 @ 12:00 PM EST |
